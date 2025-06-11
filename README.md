@@ -68,6 +68,7 @@ Master’s in Information Systems
 [LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
 
 [Github](https://github.com/Akshitha-git06)
+
 ---
 
 ## 📬 Feedback
