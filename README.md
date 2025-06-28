@@ -65,7 +65,7 @@ The goal of this analysis is to understand how customers perceive Amazon Alexa b
 
 **Akshitha**  
 Master’s in Information Systems  
-[LinkedIn](https://www.linkedin.com/in/akshitha-thatla-755832260/) 
+[LinkedIn](https://www.linkedin.com/in/akshitha-thatla/) 
 
 [Github](https://github.com/Akshitha-git06)
 
